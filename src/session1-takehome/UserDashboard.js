@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import "./UserDashboard.css";
-
+// here is the details written below
 const UserDashboard = () => {
   const [user, setUser] = useState(null);
 
