@@ -1,5 +1,5 @@
 import "./styles.css";
-//import UserDashboard from "./session1-takehome/UserDashboard";  vijkvyguhyfu
+//import UserDashboard from "./session1-takehome/UserDashboard";  vijkvyguhyvkjvnoubjnvuofu
 import DogPics from "./session2-takehome/DogpPics";
 
 export default function App() {
